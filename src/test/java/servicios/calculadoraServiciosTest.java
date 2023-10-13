@@ -46,7 +46,7 @@ public class calculadoraServiciosTest {
     public void testSuma() {
         System.out.println("suma");
         double num1 = 2;
-        double num2 = 2;
+        double num2 = 1;
        
         double expResult = 4;
         double result = instance.suma(num1, num2);
